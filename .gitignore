@@ -1,4 +1,6 @@
 **/wandb
 **/checkpoints
 **/__pycache__
-**/data
+**/Data
+**/**.png
+**/**.jpg
